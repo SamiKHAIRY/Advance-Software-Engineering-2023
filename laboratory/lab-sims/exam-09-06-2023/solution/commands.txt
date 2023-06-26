@@ -1,0 +1,2 @@
+docker build . -t exam
+docker run -p 80:3070 exam

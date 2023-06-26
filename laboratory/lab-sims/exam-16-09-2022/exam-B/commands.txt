@@ -1,0 +1,2 @@
+sudo docker build . -t exam-b
+sudo docker run -p 3000:3000 exam-b

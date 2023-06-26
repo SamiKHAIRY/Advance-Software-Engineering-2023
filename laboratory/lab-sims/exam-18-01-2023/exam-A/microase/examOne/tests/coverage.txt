@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+platform linux -- Python 3.10.6, pytest-7.3.2, pluggy-1.0.0
+rootdir: /home/relli/Desktop/advanced-sw-engineering/laboratory/excercises/exam-18-01-2023/exam-A/microase/examOne
+plugins: cov-4.1.0
+collected 3 items
+
+tests/a_test.py ...                                                      [100%]
+
+============================== 3 passed in 0.01s ===============================
