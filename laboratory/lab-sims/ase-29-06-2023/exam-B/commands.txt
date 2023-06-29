@@ -1,0 +1,4 @@
+https://github.com/glpaparelli/ase-29-06
+
+sudo docker build . -t june-exam
+sudo docker run june-exam
